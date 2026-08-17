@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 工作区不入根仓库(只上传工作区以外的东西)
+/工作区/
+
+# Claude Code 本机配置(权限、环境变量等,不共享)
+/.claude/
+
