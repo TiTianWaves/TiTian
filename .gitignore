@@ -11,3 +11,8 @@ AGENTS.md
 规划文档/
 node_modules
 .node_modules/
+
+# 本机包管理缓存与误展开的环境变量目录
+/.npm-cache/
+/.pnpm-store/
+/%SystemDrive%/
